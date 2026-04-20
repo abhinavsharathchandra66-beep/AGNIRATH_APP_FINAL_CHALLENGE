@@ -1,4 +1,4 @@
-# AGNIRATH_APP_
+# AGNIRATH_APP_CE25B031
 
 
 the design architecture, of my code is of four parts first is data pipeline second is physcis third is optimiser and last is the main now data pipeline gives values for the irradaince and the slopes from the api then the physics part would calculate the all power factors such as drag, garvity etc then we find SOC values from them by fibnding solar power  we use the optimiser alorithms such as slsql for to reach zeersut then might use grredy or slsql for to maximize the loops then all combine at the main and then we plot the graph at the dashboard and by that i plot the SOC , velocity, acclerartion and power i divided into for parts to debug or find error easily and it looks very deatiled without any clumsy 
